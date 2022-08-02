@@ -1,2 +1,5 @@
-# Data-Exploration-with-SQL
-Exploring Covid_19 data
+# SQL
+-Exploring Covid_19 data
+- Transactions
+- Stored procedures
+- Triggers.
